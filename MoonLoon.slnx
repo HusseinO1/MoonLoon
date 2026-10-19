@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MoonLoon/MoonLoon.vcxproj" Id="0f9551f2-d80d-44fe-900b-8c3b3d27f82e" />
+</Solution>

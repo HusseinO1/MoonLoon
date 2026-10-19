@@ -1,0 +1,19 @@
+# Visual Studio cache and user files
+.vs/
+*.user
+*.suo
+*.VC.db
+*.opendb
+
+# Build output directories
+Debug/
+Release/
+x64/
+x86/
+build/
+bin/
+intermediate/
+*.obj
+*.exe
+*.pdb
+*.ilk
