@@ -51,8 +51,8 @@ A standalone 2D sandbox platformer and software rendering engine implemented in 
 Open the **x64 Native Tools Command Prompt for VS**:
 
 ```cmd
-git clone [https://github.com/](https://github.com/)<your-username>/MoonLoon.git
-cd MoonLoon
+git clone https://github.com/HusseinO1/MoonLoon.git
+cd MoonLoon/MoonLoon
 cl.exe /O2 /W4 /EHsc /MT *.cpp user32.lib gdi32.lib /Fe:MoonLoon.exe
 MoonLoon.exe
 ```
